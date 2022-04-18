@@ -1,5 +1,5 @@
 body {
-    display: flex;
+    display: grid;
     background: rgb(70, 78, 88);
     font: normal 15 Arial;
     margin: 0;
