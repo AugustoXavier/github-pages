@@ -13,7 +13,7 @@ header{
     text-align: center;
 }
 section{
-    display: flex;
+    
     background: rgb(29, 28, 28);
     border-radius: 10px;
     padding: 100px;
