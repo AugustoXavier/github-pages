@@ -1,0 +1,33 @@
+body {
+    background: rgb(70, 78, 88);
+    font: normal 15 Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: rgb(29, 28, 28);
+    border-radius: 10px;
+    padding: 100px;
+    width: 550px;
+    margin: auto;
+    box-shadow: 3px 3px rgba(66, 64, 64, 0.336);
+    text-align: center;
+}
+
+footer{
+    color: azure;
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+.button{
+    
+    border-radius: 1000px;
+    background: rgb(29, 28, 28);
+    border: rgb(29, 28, 28);
+}
