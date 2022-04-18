@@ -1,6 +1,11 @@
 body {
+    display: flex;
     background: rgb(70, 78, 88);
     font: normal 15 Arial;
+    margin: 0;
+    height: 100vh;
+    
+  
 }
 
 header{
@@ -8,9 +13,12 @@ header{
     text-align: center;
 }
 section{
+    display: flex;
     background: rgb(29, 28, 28);
     border-radius: 10px;
     padding: 100px;
+    max-width: 300px;
+    max-height: 250px;
     width: 550px;
     margin: auto;
     box-shadow: 3px 3px rgba(66, 64, 64, 0.336);
@@ -23,11 +31,23 @@ footer{
     font-style: italic;
 }
 
+.luz{
+    max-width:300px;
+    max-height:250px;
+    width: auto;
+    height: auto;
+}
 
+.imgbotao{
+    max-width:25px;
+    max-height:25px;
+    width: auto;
+    height: auto;
+}
 
 .button{
     
-    border-radius: 1000px;
+    border-radius: 10000px;
     background: rgb(29, 28, 28);
     border: rgb(29, 28, 28);
 }
